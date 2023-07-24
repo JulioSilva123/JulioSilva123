@@ -1,5 +1,5 @@
 ### Ola, Eu Sou o Júlio 👋
-## Sou a Pai, desenvolvedor, cientista, músico e amante do conhecimento.
+## Sou Pai, desenvolvedor, cientista, músico e amante do conhecimento.
 
 - 🔭 Atualmente sou membro consultor na [OAB/DF](https://oabdf.org.br/)!
 <!-- - 🌱 I’m currently learning : **C/C++ and QT, CUDA ; Assembly x86_64 ** -->
