@@ -15,9 +15,7 @@
 <!-- **I can look at the skies, oceans and landscapes for hours** -->
 - ⚡ Hobbie: Eu gosto de Tigres e Leões. 
 
-# Escolaridade
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JulioSilva123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+# Formação Acadêmica
 
 
 ## Certificados
@@ -53,6 +51,9 @@
 
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JulioSilva123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📈 Minhas estatísticas e atividades do GitHub
 
