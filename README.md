@@ -35,10 +35,10 @@
 
 1. IBM
 2. Google
-1	. Advanced Data Analytics
-1	. Business Intelligence
-1	. Cybersecurity
-1	. Data Analytics
+	* Advanced Data Analytics	
+	* Business Intelligence
+	* Cybersecurity
+	* Data Analytics
 3. Microsoft
 4. Stanford University
 5. University Of Colorado Boulder
