@@ -22,18 +22,30 @@
 
 ## Certificados
 
-* IBM
-* Google
-* Board
+1. IBM
+2. Google
+	1. Advanced Data Analytics
+	2. Business Intelligence
+	3. Cybersecurity
+	4. Data Analytics
+3. Microsoft
+4. Stanford University
+5. University Of Colorado Boulder
+6. Board
+7. Duke University
+8. FioCruz
+9. HackerRank
+10. IBM
+11. LinkedIn
 
 ## Academico
 
-* Graduação
+1. Graduação
 	* Defesa Cibernética
 	* Ciência de Dados
 	* Ciência da Computação
 	* Ciência Exatas
-* Pós-Graduação 
+2. Pós-Graduação 
 	* Lato Sensu
 	* Stricto Sensu
 
