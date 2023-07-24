@@ -24,8 +24,8 @@
 
 1. IBM
 2. Google
-1. 1. Advanced Data Analytics
-	1. 2. Business Intelligence
+2. 1. Advanced Data Analytics
+2. 2. Business Intelligence
 		1. 3. Cybersecurity
 			1. 4. Data Analytics
 3. Microsoft
