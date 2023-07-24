@@ -20,7 +20,7 @@
 
 
 <p align="center">
-	<a style="text-decoration:none" href="https://wh7team.visualstudio.com/Wh7Escola/_build?definitionId=7" target="_blank" >
+	<a style="text-decoration:none" href="https://wh7team.visualstudio.com/Wh7Escola/_build?definitionId=7" target="_new" >
 		<img src="https://wh7team.visualstudio.com/Wh7Escola/_apis/build/status/Wh7Escola" alt="Build Status" />
 	</a>
 </p>
