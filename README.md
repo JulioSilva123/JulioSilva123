@@ -20,73 +20,9 @@
 
 
 <p align="center">
-	<a style="text-decoration:none" href="https://wh7team.visualstudio.com/Wh7Escola/_build?definitionId=7" target="_blank">
+	<a style="text-decoration:none" href="https://wh7team.visualstudio.com/Wh7Escola/_build?definitionId=7" target="_blank" >
 		<img src="https://wh7team.visualstudio.com/Wh7Escola/_apis/build/status/Wh7Escola" alt="Build Status" />
-
 	</a>
-
-  
-<!--
-
-{
-"count":1,
-"value":
-[
-{
-"_links":{
-"self":{
-"href":"https://wh7team.visualstudio.com/80815963-2ae1-46b1-acb9-96ee5293413e/_apis/pipelines/7?revision=8"
-},
-"web":{
-"href":"https://wh7team.visualstudio.com/80815963-2ae1-46b1-acb9-96ee5293413e/_build/definition?definitionId=7"
-}
-},
-"url":"https://wh7team.visualstudio.com/80815963-2ae1-46b1-acb9-96ee5293413e/_apis/pipelines/7?revision=8",
-"id":7,
-"revision":8,
-"name":"Wh7Escola Desktop","folder":"\\"}
-]
-}
-
-
-
-
-
-
-
-https://wh7team.visualstudio.com/Wh7Escola/_apis/build/status/Wh7Escola?branchName=main
-
-
-https://etienne-baudoux.visualstudio.com/DevToys/_apis/build/status/DevToys?branchName=main
-
-https://wh7team.visualstudio.com/Wh7Escola/_apis/build/status/Wh7Escola?branchName=main 
-
-_build?definitionId=7
-
-
-https://wh7team.visualstudio.com/Wh7Escola/_build?definitionId=7
-
-
-<a style="text-decoration:none" href="https://etienne-baudoux.visualstudio.com/DevToys/_build?definitionId=19&branchName=main" target="_blank">
-    <img src="https://etienne-baudoux.visualstudio.com/DevToys/_apis/build/status/DevToys?branchName=main" alt="Build Status" />
-  </a>
-
-  <a title="Crowdin" target="_blank" href="https://crowdin.com/project/devtoys">
-    <img src="https://badges.crowdin.net/devtoys/localized.svg">
-  </a>
-  <a style="text-decoration:none" href="https://github.com/veler/DevToys/releases" target="_blank">
-    <img src="https://img.shields.io/github/release/veler/devtoys.svg?label=Latest%20version" alt="Latest version" />
-  </a>
-  <a style="text-decoration:none" href="https://community.chocolatey.org/packages/devtoys" target="_blank">
-    <img src="https://img.shields.io/chocolatey/v/devtoys?include_prereleases" alt="Chocolatey Version (including pre-releases)">
-  </a>
-  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9PGCV4V3BK4W" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Store-Download-brightgreen" alt="Store link" />
-  </a>
-  <a style="text-decoration:none" href="https://devtoys.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-devtoys.app-blue" alt="Website" />
-  </a>
--->
 </p>
 
 
