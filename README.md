@@ -29,15 +29,15 @@
 # Formação Acadêmica
 
 
-## Certificados
+## [Certificados](https://github.com/JulioSilva123/JulioSilva123/tree/585f4ba765fe7cac3174cc896edcfabfc07c26c0/Certificados)
 
-1. IBM
+1. [IBM](https://github.com/JulioSilva123/JulioSilva123/tree/585f4ba765fe7cac3174cc896edcfabfc07c26c0/Certificados/IBM)
 	* Introduction to Data Science
 	* Data Science
 	* Applied Data Science
 	* Cybersecurity Analyst
 	* Hadoop
-2. Google
+2. [Google](https://github.com/JulioSilva123/JulioSilva123/tree/585f4ba765fe7cac3174cc896edcfabfc07c26c0/Certificados/Google)
 	* Advanced Data Analytics	
 	* Business Intelligence
 	* Cybersecurity
