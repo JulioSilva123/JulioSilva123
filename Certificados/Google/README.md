@@ -24,4 +24,3 @@
 ![Advanced Data Analytics](https://github.com/JulioSilva123/JulioSilva123/blob/1491c28d31e85eed38260d95574001a8e56f912c/Resources/distintivos/google-advanced-data-analytics-certificate.png)
 ![Cybersecurity](https://github.com/JulioSilva123/Escolaridade/blob/main/resources/google-cybersecurity-certificate.png)
 
-
