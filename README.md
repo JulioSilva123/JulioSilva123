@@ -18,15 +18,13 @@
 ---
 
 
-
+<!--
 <p align="center">
 	<a style="text-decoration:none" href="https://wh7team.visualstudio.com/Wh7Escola/_build?definitionId=7" target="_new" >
 		<img src="https://wh7team.visualstudio.com/Wh7Escola/_apis/build/status/Wh7Escola" alt="Build Status" />
 	</a>
 </p>
-
-
-
+-->
 
 # Formação Acadêmica
 
@@ -34,6 +32,11 @@
 ## Certificados
 
 1. IBM
+	* Introduction to Data Science
+	* Data Science
+	* Applied Data Science
+	* Cybersecurity Analyst
+	* Hadoop
 2. Google
 	* Advanced Data Analytics	
 	* Business Intelligence
@@ -46,10 +49,9 @@
 7. Duke University
 8. FioCruz
 9. HackerRank
-10. IBM
-11. LinkedIn
+10. LinkedIn
 
-## Academico
+## Graduação
 
 1. Graduação
 	* Defesa Cibernética
@@ -58,8 +60,12 @@
 	* Ciência Exatas
 2. Pós-Graduação 
 	* Lato Sensu
+		* Arquitetura de Sistemas
+		* Big Data
+		* Inteligencia Artificial
 	* Stricto Sensu
-
+		* Mestrado em transformação digital
+		
 ## Cursos (em breve)
 
 
