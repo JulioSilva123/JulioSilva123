@@ -13,7 +13,7 @@
 <!-- - 📫 How to reach me : **@protonmail.com** -->
 - ⚡ Curiosidade : Posso olhar para o nosso cosmos por horas 
 <!-- **I can look at the skies, oceans and landscapes for hours** -->
-- ⚡ Hobbie: Eu gosto de Tigres e Leões. 
+- ⚡ Hobbie: Eu gosto de Tigres, Leões e Onças (ja criei). 
 
 ---
 
